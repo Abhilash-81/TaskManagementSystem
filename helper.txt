@@ -1,0 +1,7 @@
+use cd frontend and cd backend to enter into codes for frontend and backend 
+just install all the packages using npm i
+
+use npm start to run 
+
+github repo link -->https://github.com/Abhilash-81/TaskManagementSystem
+
